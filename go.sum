@@ -1,0 +1,4 @@
+github.com/foundation-framework/errors v1.0.0 h1:jJMAkqGnzXWCQn2yPqYZGUepmRR1/SEL3JE5Q5oX9Z8=
+github.com/foundation-framework/errors v1.0.0/go.mod h1:jj/u6lxQJ8dyNFhvAY0+vgTh1TEQiAzrZSrmDvJJlXA=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:wG8n/XJQ07TmjbITcGiUaOtXxdrINDz1b0J1w0SzqDc=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
